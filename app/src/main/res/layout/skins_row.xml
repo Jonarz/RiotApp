@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="200dp">
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/networkImageViewSkins"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:focusable="false"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:paddingTop="10sp"
+        android:focusable="false"
+        android:background="#80000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true">
+
+    <TextView
+        android:id="@+id/nombreSkin"
+        android:text="asda"
+        android:textSize="25sp"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elegantTextHeight="false"
+        android:gravity="center_horizontal|center_vertical"
+        android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>
