@@ -22,5 +22,6 @@ Solo con esos pasos deberia funcionar perfectamente.
 
 ![ScreenShot](http://imagizer.imageshack.us/v2/800x600q90/633/lbzDwo.png)
 ![ScreenShot](http://imagizer.imageshack.us/v2/800x600q90/910/wyYRqq.png)
+![ScreenShot](http://imagizer.imageshack.us/v2/800x600q90/908/vxSmbs.png)
 ![ScreenShot](http://imagizer.imageshack.us/v2/800x600q90/903/ttMi54.png)
 ![ScreenShot](http://imagizer.imageshack.us/v2/800x600q90/907/Fmk0se.png)
